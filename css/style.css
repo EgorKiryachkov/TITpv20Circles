@@ -1,5 +1,5 @@
 body {
-    background-color: darkcyan;
+    background-color: black;
     margin: 0;
     padding: 0;
 }
@@ -7,7 +7,7 @@ body {
 .mainDiv {
     height: 600px;
     width: 600px;
-    background-color: aquamarine;
+    background-color: cadetblue;
     /*border-radius: 50%;*/
     margin: 0 auto;
     font-size: 0px;
@@ -18,8 +18,6 @@ body {
     height: 200px;
     width: 200px;
     margin: 0 auto;
-    border-radius: 50%;
-    border: 5px solid black;
     box-sizing: border-box;
 }
 
@@ -29,8 +27,41 @@ background-color: red;
 
 .yellow {
     background-color: yellow;
+    border-radius: 50%;
 }
 
 .green {
     background-color: green;
+}
+
+.red1 {
+    background-color: red;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+.yellow1 {
+    background-color: yellow;
+    border:1px solid black;
+}
+
+.green1 {
+    background-color: green;
+    border:1px solid black;
+}
+
+.red2 {
+    background-color: red;
+    border: 1px solid black;
+}
+
+.yellow2 {
+    background-color: yellow;
+    border:1px solid black;
+}
+
+.green2 {
+    background-color: green;
+    border-radius: 50%;
+    border:1px solid black;
 }
